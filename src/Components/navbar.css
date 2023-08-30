@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Poppins:wght@300&display=swap');
+
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 10%;
+}
+
+.nav-link {
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 15px;
+    text-decoration: none;
+    font-size: 2em;
+    color: inherit;
+}
